@@ -1,4 +1,7 @@
-Landsat-R
+Manipulación y análisis de imágenes Landsat con R
 ======
 
-prueba de landsat
+Introducción
+------
+
+Este repositorio fue creado para abordar el procesamiento de imágenes de los satélites de la serie Landsat en R.
